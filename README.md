@@ -50,7 +50,7 @@ There are no test files however to see initial data you can use node seeds/index
 
 ## Questions
 
-[Link to GitHub profile](https://github.com/Volexity21)
+[Feel free to join me through past and future projects!](https://github.com/Morralytics)
 
 With further questions you can reach me via email at:
 
